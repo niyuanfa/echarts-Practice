@@ -1,0 +1,66 @@
+{
+    "reservedAppFunctionName": [
+        "onLaunch",
+        "onShow",
+        "onReady",
+        "onHide",
+        "onError",
+        "getApp",
+        "beforeRouteChange",
+        "afterRouteChange",
+        "beforeRouteEnter",
+        "beforeRouteUpdate",
+        "beforeRouteLeave"
+    ],
+    "reservedAppVueExtendName":[
+        "$$data",
+        "$$methods",
+        "$$computed",
+        "$$beforeCreate",
+        "$$created",
+        "$$beforeMount",
+        "$$mounted",
+        "$$beforeUpdate",
+        "$$updated",
+        "$$beforeDestroy",
+        "$$destroyed"
+    ],
+    "reservedPageVueExtendName":[
+        "$$data",
+        "$$methods",
+        "$$computed",
+        "$$beforeCreate",
+        "$$created",
+        "$$beforeMount",
+        "$$mounted",
+        "$$beforeUpdate",
+        "$$updated",
+        "$$beforeDestroy",
+        "$$destroyed"
+    ],
+    "reservedPageFunctionName": [
+        "onLoad",
+        "onShow",
+        "onReady",
+        "onHide",
+        "onUnload",
+        "onPullDownRefresh",
+        "onReachBottom",
+        "onShareAppMessage",
+        "beforeRouteChange",
+        "afterRouteChange",
+        "beforeRouteEnter",
+        "beforeRouteUpdate",
+        "beforeRouteLeave"
+    ],
+    "reservedAppWord": [
+        "data",
+        "methods",
+        "computed"
+    ],
+    "reservedPageWord": [
+        "data",
+        "methods",
+        "computed"
+    ]
+}

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="icon" href="<%= htmlWebpackPlugin.options.icon||'./images/logo.ico' %>">
+        <title>
+            <%= htmlWebpackPlugin.options.title %>
+        </title>
+        <script>
+            var __GLOBALCONFIG = { server: "<%= htmlWebpackPlugin.options.server %>",env: <%= htmlWebpackPlugin.options.env %>};
+        </script>
+    </head>
+    <body>
+        <div id="__wevue_app">
+        </div>
+    </body>
+</html>

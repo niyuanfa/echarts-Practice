@@ -1,0 +1,23 @@
+<template>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div ref="test" id="main" style="width: 600px;height:400px; margin: auto"></div>
+    <div ref="tests" style="width: 600px;height:400px;margin: auto"></div>
+    <div ref="testpic" style="width: 600px;height:400px;margin: auto"></div>
+    <div class="title" style="text-align:center;">
+        <p>
+            柱状图
+        </p>
+    </div>
+    <div ref="nyf" style="width: 600px;height:400px;margin: auto"></div>
+    <div class="title" style="text-align:center;">
+        <p>
+            雷达图
+        </p>
+    </div>
+    <div ref="testes" style="width: 600px;height:400px;margin: auto"></div>
+    <div class="title" style="text-align:center;">
+        <p>
+            雷达图
+        </p>
+    </div>
+</template>
